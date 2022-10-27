@@ -1,3 +1,4 @@
 node_modules
 .env
 stored.png
+.DS_Store
